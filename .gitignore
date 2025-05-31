@@ -1,0 +1,7 @@
+# Ignoruj pliki Visual Studio i buildy
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
